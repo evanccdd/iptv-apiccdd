@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-08 06:30:09,http://27.41.245.32:801/hls/2/index.m3u8
+2026-01-08 18:34:50,http://27.41.245.32:801/hls/2/index.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://27.41.245.32:801/hls/2/index.m3u8
@@ -8,14 +8,8 @@ CCTV-7,http://27.41.245.32:801/hls/7/index.m3u8
 CCTV-10,http://27.41.245.32:801/hls/10/index.m3u8
 
 📡卫视频道,#genre#
-重庆卫视,http://39.152.103.17:8089/tsfile/live/1048_1.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
-广西卫视,http://39.152.103.17:8089/tsfile/live/1077_1.m3u8
-贵州卫视,http://39.152.103.17:8089/tsfile/live/1041_1.m3u8
 江苏卫视,http://27.41.245.32:801/hls/42/index.m3u8
-江苏卫视,http://39.152.103.17:8089/tsfile/live/1038_1.m3u8
-四川卫视,http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
-深圳卫视,http://39.152.103.17:8089/tsfile/live/1049_1.m3u8
 
 ☘️广东频道,#genre#
 
@@ -34,6 +28,7 @@ CCTV-10,http://27.41.245.32:801/hls/10/index.m3u8
 镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0
+镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&amp;wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0
 
 ☘️湖北频道,#genre#
 
@@ -70,7 +65,6 @@ CCTV-10,http://27.41.245.32:801/hls/10/index.m3u8
 🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
-纬来电影,http://free.cnlive.club/channel/581b458b.m3u8?q=111.170.171.148
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
