@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-11 06:57:13,http://107.150.60.122/live/cqwshd.m3u8
+2026-05-11 20:44:58,http://107.150.60.122/live/cqwshd.m3u8
 
 📺央视频道,#genre#
 
@@ -25,6 +25,7 @@
 ☘️江苏频道,#genre#
 镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
+镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 
 ☘️湖北频道,#genre#
 
@@ -36,7 +37,6 @@
 沐川综合,https://m3u8channel-sm.yunxya.com/nmip-media/channellive/channel100420/playlist.m3u8
 
 ☘️福建频道,#genre#
-福建公共,https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=2987cc24bada6a8c25589409a6452d9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 ☘️海南频道,#genre#
 
